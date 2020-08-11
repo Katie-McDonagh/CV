@@ -100,4 +100,11 @@ BA in Journalism and English (2:1)
 - Self employed: contracted to work in different cafes around London
 - Machine repairs/ set up take down at events
 
+<h2 align="center">Hobbies</h2>
 
+ - Restoring old anolog cameras
+ - Reading 
+ - All things coffee
+ - Meditation
+ - Writing film articles
+ - Surfing whenever I get get near a beach 
