@@ -16,3 +16,11 @@
 <a href="https://sourcerer.io/katie-mcdonagh"><img src="https://img.shields.io/badge/HTML-127%20commits-orange.svg" alt=""></a>
 <a href="https://sourcerer.io/katie-mcdonagh"><img src="https://img.shields.io/badge/SQL-46%20commits-orange.svg" alt=""></a>
 </div>
+
+<div>
+
+I am an enthusiastic and driven Full Stack Developer, looking for opportunities to continue learning, and making useful apps for consumers to enjoy. After many years working in the coffee industry I am excited to bring my previous experiences into the world of tech.
+
+**Tech Skills**: Ruby, Rails, Sinatra, Node.js, Express, HTML, CSS, JavaScript, jQuery, PostgreSQL, React.
+
+</div>
