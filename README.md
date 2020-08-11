@@ -80,3 +80,24 @@ BA in Journalism and English (2:1)
 - Critical reasoning and analysis
 - Negotiating and team working
 
+<h2 align="center">Experience</h2>
+
+**Trainer / Retail Manager** Allpress Espresso (2017-2018)
+
+- Create and Lead coffee classes for the general public
+- Pick and launch new coffees monthly / communicate and train for all UK staff: 50 people / create printed and online materials for launch / collabs
+- Create and Organise collabs with other UK makers 
+- Quality control all Allpress UK coffee
+
+**Cafe Manager** Allpress Espresso (2015 – 2017)
+
+- Day to day running of cafe: handling a budget, communicating with other departments
+- Responsible for 15 staff: hiring, scheduling, wellbeing,  performance reviews
+- Oversaw the renovation of the roastery cafe, communicating with the architects, project managers and owners
+
+ **Barista** Freelance & Saint Espresso (2018 – 2020)
+
+- Self employed: contracted to work in different cafes around London
+- Machine repairs/ set up take down at events
+
+
