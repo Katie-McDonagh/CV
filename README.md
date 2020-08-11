@@ -50,4 +50,33 @@ This transferred to programming, pushing for an agile approach to workflow, allo
 I learn and apply new concepts quickly and effectively, by understanding my blind spots in a new situation, knowing when to ask for help, and understanding how I learn most effectively.
 After being promoted at Allpress to Retail Manager/Coffee Trainer, it was a brand new role I had to carve out for myself, after having limited experience I  created and lead coffee classes,  transferred this into a formula for informal which we rolled out to use at events and  festivals  around the UK, both by myself and training others to lead these classes.
 
+<h2 align="center">Education</h2>
+
+### Makers Academy (2020)
+A 16-week intensive development Bootcamp, focusing on:
+
+ - Agile and XP methodologies
+ - Object-oriented design
+ - Test-driven development and behavior-driven development
+ - Champoning a language agnostic approach to learning
+ - Pair programming and group project work in a remote setting
+ - Presenting projects and public speaking
+ - peer code reviews
+
+
+### Royal Melbourne Institute of Technology(2013)
+A 12 week introduction into Graphic design 
+
+- Design principles
+- Adobe suite (photoshop/indesign)
+- Working independently on projects
+- Interpreting client specs into fully deliverable projects
+
+
+### Northumbria University(2009 - 2013)
+BA in Journalism and English (2:1) 
+
+- Written and verbal communication skills
+- Critical reasoning and analysis
+- Negotiating and team working
 
