@@ -28,7 +28,7 @@ I am an enthusiastic and driven Full Stack Developer, looking for opportunities 
 <h2 align="center">Projects</h2>
 
 | Link | Summary | Technologies used | Deployed |
-| :---: | :---: | :---: | :---: | :---: |
+| :---: | :---: | :---: | :---: |
 |[ Vim Bishop's Bike Adventures (front end) ](https://github.com/Katie-McDonagh/invimcible_front_end)| This is a fun game designed to help developers learn Vim commands | React, Redux, Node, Netlify, Jest, Enzyme, HTML, CSS | [Test your skills](https://github.com/Katie-McDonagh/invimcible_front_end) |
 |[ Vim Bishop's Bike Adventures (back end) ](https://github.com/Katie-McDonagh/invimcible_back_end)| This is the back end of the project, we created a tile matrix for each level to be passed to the front end | Express, Node, Heroku, Jest, Enzyme | [See the tiles](https://github.com/Katie-McDonagh/invimcible_back_end) |
 
