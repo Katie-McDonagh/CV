@@ -86,7 +86,7 @@ BA in Journalism and English (2:1)
 **Trainer / Retail Manager** Allpress Espresso (2017-2018)
 
 - Create and Lead coffee classes for the general public
-- Pick and launch new coffees monthly / communicate and train for all UK staff: 50 people / create printed and online materials for launch / collabs
+- Pick and launch new coffees monthly / communicate/train on new coffees for all 50 UK staff / create printed and online materials for launch / collabs
 - Create and Organise collabs with other UK makers 
 - Quality control all Allpress UK coffee
 
