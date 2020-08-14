@@ -21,7 +21,7 @@
 
 I am an enthusiastic and driven Full Stack Developer, looking for opportunities to continue learning, and making useful apps for consumers to enjoy. After many years working in the coffee industry I am excited to bring my previous experiences into the world of tech.
 
-**Tech Skills**: Ruby, Rails, Sinatra, Node.js, Express, HTML, CSS, JavaScript, jQuery, PostgreSQL, React.
+**Tech Skills**: Ruby, Rails, Sinatra, Node.js, Express, HTML, CSS, JavaScript, jQuery, PostgreSQL, React, RSpec, Jasmine, Jest.
 
 </div>
 
@@ -30,7 +30,7 @@ I am an enthusiastic and driven Full Stack Developer, looking for opportunities 
 | Link | Summary | Technologies used | Deployed |
 | :---: | :---: | :---: | :---: |
 |[ Vim Bishop's Bike Adventures (front end) ](https://github.com/Katie-McDonagh/invimcible_front_end)| This is a fun game designed to help developers learn Vim commands | React, Redux, Node, Netlify, Jest, Enzyme, HTML, CSS | [Test your skills](https://github.com/Katie-McDonagh/invimcible_front_end) |
-|[ Vim Bishop's Bike Adventures (back end) ](https://github.com/Katie-McDonagh/invimcible_back_end)| This is the back end of the project, we created a tile matrix for each level to be passed to the front end | Express, Node, Heroku, Jest, Enzyme | [See the tiles](https://github.com/Katie-McDonagh/invimcible_back_end) |
+|[ Vim Bishop's Bike Adventures (back end) ](https://github.com/Katie-McDonagh/invimcible_back_end)| This is the back end of the project, we created a tile matrix for each level to be passed to the front end | Express, Node, Heroku, Jest, Enzyme | [See the tiles](https://github.com/Katie-McDonagh/invimcible_back_end) |[ Acebook ]( https://github.com/Katie-McDonagh/acebook-bits-please)| This is a social media clone, it allows users to sign up, talk to each other, and upload photos | Ruby on Rails, RSpec, HTML, CSS, Bootstrap | ... |
 
 <h2 align="center" >Skills</h2>
 
